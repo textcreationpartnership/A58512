@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon the petition and petitioners against the Lord Mayor and Court of Aldermen of London December, 1690.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58512</idno><idno type="EEBO-CITATION">15038261</idno>
+  <idno type="VID">103085</idno>
+  <idno type="EEBO-PROQUEST">2240940227</idno>
+  
+            <idno type="STC">Wing R951</idno>
+            <idno type="STC">ESTC R35142</idno>
+            <idno type="OCLC">15038261</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1577:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon the petition and petitioners against the Lord Mayor and Court of Aldermen of London December, 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"A reply to the petition To the honourable the knights, citizens and burgesses ... the humble petition of the members of the Common Council, London, 1690, concerning the liberties and franchises of the city of London"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Lord Mayor (1689-1691 : Pilkington)</term>
+               <term type="corporate_name">City of London (England). --  Court of Common Council.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103085:1"/>
+            <head>REMARKS UPON THE Petition and Petitioners, Against the Lord Mayor, and Court of Aldermen, of <hi>London. DECEMBER,</hi> 1690.</head>
+            <p>'TIS yet fresh in Memory that in the late unhappy Times, the City of <hi>London</hi> was infested with a Race of men bewitch'd with the love of <hi>Arbitrary Pow<g ref="char:EOLhyphen"/>er,</hi> and of a <hi>Popish Successor;</hi> These were <hi>the Men</hi> who were the <hi>Abhorrers</hi> of <hi>Parliaments, Anti-Exclusioners,</hi> &amp;c. These were <hi>the Men,</hi> who made fawning <hi>Addresses</hi> of thanks for the Viola<g ref="char:EOLhyphen"/>tion of the Rights of the City, and the Laws of the Land: These were <hi>the Men</hi> (who in <hi>breach of their Oaths and Trust</hi>) were <hi>Surrenderers</hi> of the <hi>Charters</hi> of their respective <hi>Companies;</hi> and <hi>who</hi> Struggled and <hi>Voted</hi> of the <hi>Surrender</hi> of the <hi>City Charters,</hi> These were <hi>the Men,</hi> who basely engaged to support <hi>Tyranny</hi> with their <hi>Lives and Fortunes:</hi> In a word, They were the <hi>Creatures</hi> of that <hi>Monster Jeffries,</hi> and the <hi>Dis<g ref="char:EOLhyphen"/>ciples</hi> and <hi>Supporters</hi> of that Villain <hi>Le Strange.</hi>
+            </p>
+            <p>When (in that dark day) the heads of our best <hi>Patriots</hi> and the <hi>Liberties</hi> of <hi>English Men,</hi> were to be made a <hi>Sacrifice</hi> to <hi>Popish Rage; Graham</hi> and <hi>Burton,</hi> withe the well prepared <hi>Sheriffs,</hi> could readily pack <hi>never failing Juri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> for the Work in hand, out of a <hi>List</hi> of 100, or 120, of these <hi>Animals.</hi> But,</p>
+            <p>At length <hi>Heaven</hi> did most miraculously de<g ref="char:EOLhyphen"/>liver the Nation, and by the Mercy of the Government, <hi>these Men</hi> do yet live: It might then be reasonably expected, that <hi>They,</hi> who <hi>have still a Being because they were forgiven;</hi> should in gratitude acquiesce, and not dare to Embar<g ref="char:EOLhyphen"/>rass their <hi>Majesties</hi> Affairs, nor to disturb the happy and quiet settlement of their Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But the contrary is too evident, for 117 Per<g ref="char:EOLhyphen"/>sons (of which number, were the matter scru<g ref="char:EOLhyphen"/>tinized, scarce any would be found clear of the evil practises, and of the high Misdemeanors, and Mischiefs, and wicked Murders, perpetrated in the late Reigns) have raised a Complaint in the <hi>Honorable House of Commons,</hi> against the pre<g ref="char:EOLhyphen"/>sent <hi>Lord Mayor</hi> and <hi>Aldermen</hi> of <hi>London;</hi> to the obstruction of the great and most pressing Affairs of the Kingdom; and in truth of the whole <hi>Protestant World;</hi> and that <hi>in contempt</hi> and <hi>defiance</hi> of his <hi>Majesties Declaration,</hi> at the open<g ref="char:EOLhyphen"/>ing of this Session of <hi>Parliament, That whoever should go about to obstruct or divert the Applications of the</hi> House, <hi>to those great matters preferable to all others, could neither be his</hi> Majesties friends, <hi>nor the</hi> Kingdoms.</p>
+            <p>The <hi>Ringleader</hi> and <hi>Captain</hi> of these is Sir <hi>William Dodson,</hi> a person who has ever busied himself (as far as his mean capacity and shallow Understanding did enable him) to bring Mis<g ref="char:EOLhyphen"/>cheif upon the City, and Ruin upon the Nation; To this <hi>Toole,</hi> a great many such have joyned themselves; Who have many ways Violated and endeavoured the Overthrow, of the Liber<g ref="char:EOLhyphen"/>ties of the City, and of the Laws of the Land; and who are <hi>besmeared with the Blood of my</hi> Lord Russel, <hi>Alderman</hi> Cornish and others.</p>
+            <p>In particular to mention and Caracterize near half of these Petitioners.</p>
+            <p>Sir <hi>William Dodson,</hi> was one of those who were returned by <hi>North</hi> and <hi>Rich,</hi> to pass upon my Lord <hi>Russel</hi>'s life; and one returned by <hi>Rensey</hi> and <hi>Thorowgood</hi> (the <hi>Sheriffs</hi> in 1685) to pass upon <hi>Alderman Cornish</hi> and Mrs. <hi>Gaunt;</hi> He was Foreman of Dr, <hi>Oats</hi>'s <hi>Jury;</hi> One of the <hi>Jury</hi> which gave 100000 <hi>l.</hi> Damages against Mr. <hi>Culliford</hi> (an honest <hi>Citizen</hi>) for saying the <hi>Duke</hi> of <hi>York</hi> designed to bring in <hi>Popery</hi> and <hi>Slavery,</hi> and one of the <hi>Lieutenancy,</hi> who commissionated <hi>Lieutenant Colonel Quiney</hi> to re<g ref="char:EOLhyphen"/>move Sir <hi>John Lawrence,</hi> Sir <hi>Robert Clayton,</hi> Sir <hi>Patience Ward,</hi> and three other <hi>Aldermen,</hi> by Violence, from the <hi>Hustings</hi> in <hi>Guildhall,</hi> when Sir <hi>John Moor</hi> did arbitrarily constitute <hi>North</hi> and <hi>Rich Sheriffs:</hi> He also voted in the <hi>Common Council</hi> for the <hi>Surrender</hi> of the <hi>City Charter.</hi>
+            </p>
+            <p>Sir <hi>Ralph Box,</hi> Was one returned to pass upon <hi>Cornish</hi> and <hi>Gaunt,</hi> and one who <hi>Voted in the Common Council for the</hi> Surrender <hi>of the</hi> City Charters</p>
+            <p>
+               <hi>Richard Aly, Foreman</hi> of my Lord <hi>Russel</hi>'s <hi>grand Jury;</hi> One that returned to pass upon <hi>Cornish</hi> and <hi>Gaunt; Foreman</hi> of Mr. <hi>Charles Bate<g ref="char:EOLhyphen"/>mans Jury;</hi> One of <hi>Oats</hi>'s <hi>Jury;</hi> One of the <hi>Lieutenancy,</hi> who gave <hi>Quinney</hi> the Warrant to commit the <hi>Outrage</hi> at <hi>Guildhall;</hi> and <hi>One who Voted for the</hi> Surrender <hi>of the</hi> City Charters.</p>
+            <p>
+               <hi>William Withers,</hi> One of <hi>Lord Russels grand Jury:</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt;</hi> One of <hi>Cullifords</hi> 100000 <hi>l. Jury;</hi> And one who (tho' absent at the Voting in <hi>Common Council</hi> for Surrender of <hi>City Charters</hi>) Voted (as most of his Brethren the Pititioners did) for the <hi>Surrender</hi> of the <hi>Charter</hi> of his own <hi>Company;</hi> viz. the <hi>Fishmongers.</hi>
+            </p>
+            <p>
+               <hi>Richard Holder,</hi> One who Voted for the <hi>Sur<g ref="char:EOLhyphen"/>render</hi> of the <hi>City Charters.</hi>
+            </p>
+            <p>
+               <hi>Robert Bedingfield,</hi> One returned to pass upon my Lord <hi>Russel, Cornish</hi> and <hi>Gaunt;</hi> One of <hi>Oats</hi>'s <hi>Jury;</hi> an <hi>Affidavit Man</hi> for <hi>Le Strange</hi>'s famous <hi>Mr. Cradock</hi> against my Lord of <hi>Shafts<g ref="char:EOLhyphen"/>bury;</hi> and One who <hi>Voted</hi> for the <hi>Surrender</hi> of the <hi>City Charters:</hi>
+            </p>
+            <p>
+               <hi>John Midgley,</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt,</hi> and one of <hi>Oats</hi>'s <hi>Jury;</hi> and who Voted for <hi>Surrender</hi> of the <hi>City Charters.</hi>
+            </p>
+            <p>
+               <hi>Nicholas Alexander,</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt.</hi>
+            </p>
+            <p>Note, <hi>These are the first Eight of the Subscribers of the Petition.</hi>
+            </p>
+            <pb facs="tcp:103085:2"/>
+            <p>
+               <hi>John Genew,</hi> One returned to pass upon Lord <hi>Russel, Cornish</hi> and <hi>Gaunt;</hi> and one of <hi>Calliford</hi>'s 100000 l. <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>Thomas Mills,</hi> One of <hi>Cornish</hi>'s, and <hi>Gaunt</hi>'s <hi>Grand Jury.</hi>
+            </p>
+            <p>
+               <hi>John Owen,</hi> One returned to pass upon my Lord <hi>Russel.</hi>
+            </p>
+            <p>
+               <hi>Peter Pickering,</hi> One who voted for the <hi>Sur<g ref="char:EOLhyphen"/>render</hi> of the <hi>City Charter.</hi>
+            </p>
+            <p>
+               <hi>Hugh Strode,</hi> One returned to pass upon my <hi>Lord Russel,</hi> and one who <hi>noted</hi> for the <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Tho. Blackmore,</hi> One of the <hi>Grand Juries,</hi> up<g ref="char:EOLhyphen"/>on <hi>Lord Russel, Cornish</hi> and <hi>Gaunt;</hi> one of the <hi>Juries</hi> upon the <hi>Guild-Hall Riot,</hi> and upon Mr. <hi>Papillon,</hi> and <hi>Oates:</hi> and one who <hi>voted</hi> for the <hi>Surrender</hi> of the <hi>City Charters.</hi>
+            </p>
+            <p>
+               <hi>Robert Masters,</hi> Not <hi>Richard Masters,</hi> a <hi>Princi<g ref="char:EOLhyphen"/>pal Witness</hi> against <hi>Stephen Colledge;</hi> but his <hi>own Brother,</hi> both in <hi>Blood</hi> and <hi>Principles;</hi> one retur<g ref="char:EOLhyphen"/>ned to pass upon my <hi>Lord Russel,</hi> and of Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Bernardiston</hi>'s <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>Abraham Jaggard,</hi> One who <hi>voted</hi> for the <hi>Sur<g ref="char:EOLhyphen"/>render</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Francis Brerewood,</hi> One of <hi>Lord Russel</hi>'s <hi>Grand Jury,</hi> and returned to pass upon <hi>Cornish</hi> and <hi>Gaunt.</hi>
+            </p>
+            <p>
+               <hi>Israel Knowles,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Peter Floyer,</hi> One returned to pass upon my <hi>Lord Russel,</hi> and one of <hi>Bateman</hi>'s <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>John Bland,</hi> One who <hi>voted</hi> for the <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Will. Fownes,</hi> One of <hi>Cornish</hi>'s, and <hi>Gaunt</hi>'s <hi>Grand Jury;</hi> and returned to pass upon Mr. <hi>Jo<g ref="char:EOLhyphen"/>seph Hayes,</hi> but <hi>challenged</hi> by him; and one who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>John Green,</hi> One of <hi>Cornish</hi>'s, and <hi>Gaunt</hi>'s <hi>Grand Jury;</hi> one of Mr. <hi>Papillon</hi>'s <hi>Jury;</hi> one of those returned to pass upon <hi>Hayes,</hi> but <hi>challenged;</hi> and one who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Percival Stilborne,</hi> One of <hi>Lord Russel</hi>'s <hi>Grand Jury; Foreman</hi> of <hi>Cornish</hi>'s, and <hi>Gaunt</hi>'s <hi>Grand Gilbourne Jury:</hi> one of the <hi>Riot Jury;</hi> and of <hi>Bar<g ref="char:EOLhyphen"/>nadiston</hi>'s <hi>Jury;</hi> one of <hi>Culliford</hi>'s 100000 <hi>Jury;</hi> and one who <hi>voted</hi> for the <hi>Surrender</hi> of the <hi>City Charters</hi>
+            </p>
+            <p>
+               <hi>William Rouse,</hi> One of <hi>Lord Russel</hi>'s <hi>Jury;</hi> and returned to pass upon <hi>Cornish</hi> and <hi>Gaunt.</hi>
+            </p>
+            <p>
+               <hi>Henry Lewes,</hi> Scrivener, One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Thomas Simmonds,</hi> One of <hi>Cornish</hi>'s <hi>Grand Ju<g ref="char:EOLhyphen"/>ry,</hi> and of <hi>Papillon</hi>'s <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>Richard Hoar,</hi> One returned to pass upon <hi>Lord Russel, Cornish,</hi> and <hi>Gaunt.</hi>
+            </p>
+            <p>
+               <hi>James Hudson,</hi> One who <hi>voted</hi> for the <hi>Surren<g ref="char:EOLhyphen"/>der</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Thomas Short,</hi> One of <hi>Lord Russel</hi>'s <hi>Jury;</hi> one returned to pass upon <hi>Cornish,</hi> and <hi>Gaunt;</hi> and one of <hi>Oat</hi>'s <hi>Jury;</hi> and also returned to pass up<g ref="char:EOLhyphen"/>on <hi>Hayes,</hi> but <hi>challenged.</hi>
+            </p>
+            <p>
+               <hi>Edward Herne,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Roger Reeve,</hi> One returned to pass upon <hi>Lord Russel, Cornish,</hi> and <hi>Gaunt,</hi> and one of <hi>Oats</hi>'s <hi>Ju<g ref="char:EOLhyphen"/>ry,</hi> and who <hi>noted</hi> for the <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Francis Griffith,</hi> One returned to pass upon <hi>Lord Russel;</hi> and who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>John Moor,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>John Steventon,</hi> One returned to pass upon <hi>Lord Russel;</hi> and also returned to pass upon <hi>Hayes,</hi> but <hi>challenged:</hi> one of the <hi>Lieutenancy,</hi> who gave <hi>Quinney</hi> the Warrant to commit the Insolence at <hi>Guild-Hall;</hi> and who <hi>voted</hi> for the <hi>Surrender</hi> of the <hi>Charter.</hi>
+            </p>
+            <p>
+               <hi>Robert Brough,</hi> One of <hi>Lord Russel</hi>'s <hi>Jury,</hi> and who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charter.</hi>
+            </p>
+            <p>
+               <hi>John Foster,</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt</hi>'s</p>
+            <p>
+               <hi>George Newland,</hi> One who voted for the <hi>Sur<g ref="char:EOLhyphen"/>render</hi> of the <hi>City Charters.</hi>
+            </p>
+            <p>
+               <hi>William Pellat,</hi> One returned to pass upon <hi>Lord Russel;</hi> and one <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charter:</hi>
+            </p>
+            <p>
+               <hi>Lawrence Coles,</hi> One of <hi>Bateman</hi>'s <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>James Wood,</hi> One returned to pass upon <hi>Cor<g ref="char:EOLhyphen"/>nish</hi> and <hi>Gaunt;</hi> one of Sir <hi>Barnardist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi>'s <hi>Jury;</hi> and of <hi>Culliford</hi>'s 100000 <hi>Jury;</hi> and who <hi>voted</hi> for the <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>John Saunders,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>John Cooper,</hi> One of <hi>Lord Russel</hi>'s <hi>Grand Jury,</hi> and of <hi>Bateman</hi>'s <hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>James Smith,</hi> One returned to pass upon <hi>Lord Russel, Cornish,</hi> and <hi>Gaunt;</hi> and also upon <hi>Hayes,</hi> but <hi>challenged.</hi>
+            </p>
+            <p>
+               <hi>John Kent,</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt;</hi> one of <hi>Oats</hi>'s <hi>Jury;</hi> and who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>City Charters.</hi>
+            </p>
+            <p>
+               <hi>Paul Wicks,</hi> One returned to pass upon <hi>Lord Russel;</hi> and who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charters.</hi>
+            </p>
+            <p>
+               <hi>Nicholas Smith,</hi> One returned to pass upon <hi>Cornish</hi> and <hi>Gaunt;</hi> and likewise upon <hi>Hayes,</hi> but <hi>challenged.</hi>
+            </p>
+            <p>
+               <hi>Richard Weedom,</hi> One who <hi>voted</hi> for the <hi>Sur<g ref="char:EOLhyphen"/>render</hi> of the <hi>Charter.</hi>
+            </p>
+            <p>
+               <hi>John Westbrook,</hi> One returned to pass upon <hi>Lord Russel.</hi>
+            </p>
+            <p>
+               <hi>Ralph Izzard,</hi> One returned to pass upon <hi>Lord Russel.</hi>
+            </p>
+            <p>
+               <hi>John Sawyer,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>City Charter.</hi>
+            </p>
+            <p>
+               <hi>Thomas Templar,</hi> One who <hi>voted</hi> for <hi>Surrender</hi> of the <hi>Charter.</hi>
+            </p>
+            <p>
+               <hi>Thomas Langham, Second</hi> to Sir <hi>Tho. Rawlinson:</hi> upon the <hi>Juries</hi> which passed upon <hi>Cornish</hi> and <hi>Gaunt,</hi> One of <hi>Oats</hi>'s <hi>Jury,</hi> and of <hi>Culliford</hi>'s 100000 l. <hi>Jury;</hi> One returned to pass upon <hi>Hayes,</hi> but <hi>challenged;</hi> and who <hi>Voted</hi> for the Surrender of the <hi>City Charters.</hi>
+            </p>
+            <p>In all 52 (of the 117 Petitioners who Cri<g ref="char:EOLhyphen"/>minate my Lord <hi>Mayor,</hi> and the <hi>Aldermen,</hi> and complain of the <hi>Invasion of their Ancient Rights and Priviledges</hi>) whereof 25 actually served, or were pack'd and designed to serve in that accursed action of the <hi>Murder</hi> of my Lord <hi>Russel;</hi> And no less then 34 of them (instead of <hi>asserting and maintaining the Antient Rights and Priviledges of the City;</hi> when emunently in<g ref="char:EOLhyphen"/>vaded and threatned by the <hi>Quo Warranto</hi> which <hi>Jefferies</hi> sat on foot) did most <hi>Obsequiously</hi> and <hi>Treacherously,</hi> labour and <hi>Vote</hi> in the <hi>Common Council</hi> of London, in 1683; To have the <hi>Charters</hi> of the <hi>City</hi> voluntarily <hi>Surrendred.</hi>
+            </p>
+            <p>The Matters here enumerated and charged upon these <hi>Petitioners,</hi> are not idle Fictions, but sad Truths; as the <hi>Records</hi> of that day shew; and as he who doubts herein may find by per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sing two small <hi>Tracts,</hi> called A Display of <hi>Tyrany,</hi> the first and second part.</p>
+            <p>As to the rest of the <hi>Petitioners</hi> it may be truely said; <hi>Noseuntur e Socijs</hi> &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
